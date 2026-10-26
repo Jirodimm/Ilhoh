@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: >-
+  If you use these files, please cite them as below, and cite
+  Beck et al. (2023), the map they are generalised from.
+type: dataset
+title: "Ilhoh: generalised Köppen-Geiger climate polygons, 1991–2020"
+authors:
+  - given-names: Diogo
+    family-names: Marques Macedo
+    orcid: "https://orcid.org/0009-0008-6977-7180"
+repository-code: "https://github.com/Jirodimm/Ilhoh"
+license: CC-BY-4.0
+abstract: >-
+  Köppen-Geiger climate classes as polygons, one multipolygon per class,
+  in GeoJSON and TopoJSON, generalised from the 1 km map for 1991–2020
+  of Beck et al. (2023) for use in web maps.
+keywords:
+  - Köppen-Geiger
+  - climate classification
+  - GeoJSON
+  - TopoJSON
+references:
+  - type: article
+    title: "High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections"
+    authors:
+      - given-names: Hylke E.
+        family-names: Beck
+      - given-names: Tim R.
+        family-names: McVicar
+      - given-names: Noemi
+        family-names: Vergopolan
+      - given-names: Alexis
+        family-names: Berg
+      - given-names: Nicholas J.
+        family-names: Lutsko
+      - given-names: Ambroise
+        family-names: Dufour
+      - given-names: Zhenzhong
+        family-names: Zeng
+      - given-names: Xin
+        family-names: Jiang
+      - given-names: Albert I. J. M.
+        family-names: van Dijk
+      - given-names: Diego G.
+        family-names: Miralles
+    journal: Scientific Data
+    volume: 10
+    start: 724
+    year: 2023
+    doi: 10.1038/s41597-023-02549-6
